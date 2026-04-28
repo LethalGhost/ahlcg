@@ -19,7 +19,7 @@
   "PlayArea": 1.0,
   "Table": "Table_None",
   "Sky": "Sky_Museum",
-  "SkyURL": "https://steamusercontent-a.akamaihd.net/ugc/1020574374357829212/7F87FD43B19AB396C8466C7E028C10FA7695F8C1/",
+  "SkyURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/decor/Sky.jpg",
   "Note": "Модуль редактировал vallre и Lethal Ghost\r\n",
   "TabStates": {
     "0": {
@@ -4159,7 +4159,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/952965089462071147/F586DAA07E810B16A62C23AE2EA526BE3C7FD7FB/",
+        "ImageURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/table-head.jpg",
         "ImageSecondaryURL": "",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
@@ -4230,8 +4230,8 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
+        "ImageURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
+        "ImageSecondaryURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
         "CustomTile": {
@@ -4442,7 +4442,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/254843371583102491/71731F2E30413A4D27B0805A54B1D87DC415F8DF/",
+        "ImageURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/decor/Map.png",
         "ImageSecondaryURL": "",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
@@ -5019,8 +5019,8 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
+        "ImageURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
+        "ImageSecondaryURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
         "CustomTile": {
@@ -5076,8 +5076,8 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
+        "ImageURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
+        "ImageSecondaryURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
         "CustomTile": {
@@ -5133,8 +5133,8 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
+        "ImageURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
+        "ImageSecondaryURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
         "CustomTile": {
@@ -5190,8 +5190,8 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/273974515701259432/A09A20BE6300EAB285858E76A03BD781EE3845B5/",
+        "ImageURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
+        "ImageSecondaryURL": "https://github.com/LethalGhost/ah_res/raw/refs/heads/main/table/cover2.jpg",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
         "CustomTile": {
@@ -6242,7 +6242,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -8752,7 +8752,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -8829,7 +8829,7 @@
               "Type": 0
             },
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -9070,7 +9070,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -9294,7 +9294,7 @@
               "Type": 0
             },
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -9628,7 +9628,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -10426,7 +10426,7 @@
               "Type": 0
             },
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -10889,7 +10889,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -10950,7 +10950,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -11354,7 +11354,7 @@
               "Type": 0
             },
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -11643,7 +11643,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -12009,7 +12009,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -12149,7 +12149,7 @@
           ],
           "CustomDeck": {
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -12327,7 +12327,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -12815,7 +12815,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -13242,7 +13242,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -14376,7 +14376,7 @@
               "Type": 0
             },
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -14778,7 +14778,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -15022,7 +15022,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -15153,7 +15153,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -21656,7 +21656,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -27759,7 +27759,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -34128,7 +34128,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -40658,7 +40658,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -40748,7 +40748,7 @@
               "Type": 0
             },
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -41098,7 +41098,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -41530,7 +41530,7 @@
               "Type": 0
             },
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -41968,7 +41968,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -42818,7 +42818,7 @@
               "Type": 0
             },
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -43367,7 +43367,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -44632,7 +44632,7 @@
               "Type": 0
             },
             "4950": {
-              "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+              "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
               "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
               "NumWidth": 5,
               "NumHeight": 4,
@@ -44869,7 +44869,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -45296,7 +45296,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "4950": {
-                  "FaceURL": "https://github.com/LethalGhost/ah_res/blob/main/st/TIC/srv_1.jpg?raw=true",
+                  "FaceURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/st/TIC/srv_1.jpg",
                   "BackURL": "https://raw.githubusercontent.com/LethalGhost/ah_res/main/PB.jpg",
                   "NumWidth": 5,
                   "NumHeight": 4,
@@ -51001,7 +51001,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -52719,7 +52719,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -57728,7 +57728,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -62791,7 +62791,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -67830,7 +67830,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\nlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
@@ -97411,7 +97411,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.2
       },
-      "Nickname": "1 XP Neutral cards",
+      "Nickname": "Bounded",
       "Description": "",
       "GMNotes": "",
       "AltLookAngle": {
@@ -97463,7 +97463,7 @@
       "Bag": {
         "Order": 0
       },
-      "LuaScript": "function onLoad()\r\n\r\n--self.interactable = false\r\nself.createButton({\r\n    click_function= \"onButtonClick\",\r\n    function_owner= self,\r\n    position= {0, 0.2, 0},\r\n    width = 1200,\r\n    height = 1100,\r\n    color = {0,0,0,0},\r\n    tooltip= \" \",\r\n})end\r\n\r\n\r\nfunction onButtonClick(obj, playerColor)\r\nif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\tlocal deckList=self.getObjects();\r\n\tlocal coord = self.getPosition()\r\n\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\");\r\n\tlocal totalDecks=self.getQuantity();\r\n\t--\r\n\tfor i=1,totalDecks,1 do\r\n\t\t--\r\n\t\tself.takeObject ({\r\n\t\t\t\t\tposition= deckPosition,\r\n\t\t\t\t\trotation = {0,270,0},\r\n\t\t\t\t\tsmooth= true,})\r\n\t\t--\r\n\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t--\r\n\tend\r\n\t--\r\nlocal coord = self.getPosition()\r\ndeckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t--\r\n\tfor i=totalDecks,1,-1 do\r\n\t\t--\r\n\t\tWait.time(function()\r\n\t\t\t\t\t\tlocal params = {\r\n\t\t\t\t\t\t\t\tcardDeck   = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\t\t\t\tinverse = true,\r\n\t\t\t\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\t\t\tdeckPosition[1]=deckPosition[1]-g_cardHeigth;\r\n\t\t\t\t\t\tend, 0.5)\r\n\t--\r\n\tend\r\n\t--\r\n\r\nend\r\nend",
+      "LuaScript": "function onLoad()\r\n\t--self.interactable = false\r\n\tself.createButton({\r\n\t\tclick_function = \"onButtonClick\",\r\n\t\tfunction_owner = self,\r\n\t\tposition = {0, 0.2, 0},\r\n\t\twidth = 1200,\r\n\t\theight = 1100,\r\n\t\tcolor = {0,0,0,0},\r\n\t\ttooltip = \" \",\r\n\t})\r\nend\r\n\r\nfunction onButtonClick(obj, playerColor)\r\n\tif Player[playerColor].admin and self.getQuantity() > 0 then\r\n\t\tlocal deckList=self.getObjects()\r\n\t\tlocal coord = self.getPosition()\r\n\t\tlocal deckPosition={coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tlocal g_cardHeigth=Global.getVar(\"g_cardHeigth\")\r\n\t\tlocal totalDecks=self.getQuantity()\r\n\r\n\t\tfor i = 1, totalDecks, 1 do\r\n\t\t\tself.takeObject ({\r\n\t\t\t\tposition = deckPosition,\r\n\t\t\t\trotation = {0,270,0},\r\n\t\t\t\tsmooth= true,\r\n\t\t\t})\r\n\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\tend\r\n\r\n\t\tlocal coord = self.getPosition()\r\n\t\tdeckPosition = {coord[1] - 0.1, coord[2] + 0.1, coord[3] - 4.5}\r\n\t\tfor i = totalDecks, 1, -1 do\r\n\t\t\tWait.time(function()\r\n\t\t\t\tlocal params = {\r\n\t\t\t\t\tcardDeck = getObjectFromGUID(deckList[i].guid),\r\n\t\t\t\t\tiniPosition = deckPosition,\r\n\t\t\t\t\tmaxCardRow = 99,\r\n\t\t\t\t\tmode = \"z\",\r\n\t\t\t\t\tinverse = true,\r\n\t\t\t\t\tmaxCardsDealed = 99,\r\n\t\t\t\t}\r\n\t\t\t\t-- Success would be set to true by the return value in the function\r\n\t\t\t\tsuccess = Global.call(\"dealCardsInRows\", params)\r\n\t\t\t\tdeckPosition[1] = deckPosition[1] - g_cardHeigth;\r\n\t\t\t\tend, 0.5\r\n\t\t\t)\r\n\t\tend\r\n\tend\r\nend\r\n",
       "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": [
